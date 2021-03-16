@@ -2,9 +2,9 @@
 from setuptools import setup
 
 setup(
-    name='Products Flask Api',
+    name='Articles Django Rest Api',
     version='1.0.0',
-    description='Service that stores and retrieve information of a product',
+    description='Service that stores and retrieve information of an Article',
     author='Thiago Piccioni',
     author_email='thiagopiccioni@gmail.com',
 
